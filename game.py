@@ -1,5 +1,7 @@
 """A number-guessing game."""
 
-print("hi")
+player_name = input("What is your name?")
+
+print(f"Hello {player_name}, thank you for playing!")
 
 
